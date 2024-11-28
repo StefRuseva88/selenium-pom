@@ -43,9 +43,6 @@ dotnet test
 ```
 ### Test Reports:
 - Test execution results will be available in the terminal for WebDriver tests.
-  
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
