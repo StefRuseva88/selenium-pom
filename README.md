@@ -13,7 +13,6 @@ Welcome to the repository for my exam projects! This collection showcases my ski
 - [Selenium POM](#selenium-pom)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -41,6 +40,7 @@ This project involves creating automated UI tests using the Selenium WebDriver a
 ```bash
 dotnet test
 ```
+
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
