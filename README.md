@@ -41,9 +41,6 @@ This project involves creating automated UI tests using the Selenium WebDriver a
 ```bash
 dotnet test
 ```
-### Test Reports:
-- Test execution results will be available in the terminal for WebDriver tests.
-
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
